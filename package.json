@@ -1,0 +1,17 @@
+{
+    "name": "3ds-to-pc-controller",
+    "description": "Use a Nintendo 3DS as a game pad for your PC",
+    "author": "James Warwood <james.duncan.1991@googlemail.com>",
+    "version": "0.1.0",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/james-duncan/3ds-to-pc-controller.git"
+    },
+    "dependencies": {
+        "socket.io": "0.9.x"
+    },
+    "engines": {
+        "node": ">= 0.10.x"
+    }
+}
