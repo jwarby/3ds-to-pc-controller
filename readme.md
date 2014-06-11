@@ -1,5 +1,7 @@
 # 3DS-to-PC Gamepad
 
+*Note: this project is intended as a proof of concept*
+
 This project aims to turn the Nintendo 3DS into a controller for a PC, using a webpage accessed on the 3DS, communicating with a node server on the host machine.
 
 The purpose of the project is to allow one to play emulated games on their computer, using a familiar pad layout.  I started this project because I want to carry on playing retro games, even though I've moved 12,000 miles away from all of my consoles.
